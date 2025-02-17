@@ -16,7 +16,7 @@ React, TailwindCSS, Vite
 ## Live Demo
 
 
-[Demo](https://dangduongcoder.github.io/CountWithYou/)
+[Demo](https://outworkz.github.io/LoveYouBaby/)
 
 
 
@@ -25,13 +25,13 @@ React, TailwindCSS, Vite
 Clone the project
 
 ```bash
-  git clone https://github.com/dangduongcoder/CountWithYou
+  git clone https://github.com/outworkz/LoveYouBaby.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd CountWithYou
+  cd LoveYouBaby
 ```
 
 Install dependencies
@@ -69,5 +69,5 @@ To change something in project, you will need to modify in `src/App.jsx` or chan
 
 ## Authors
 
-- [@dangduongcoder](https://www.github.com/dangduongcoder)
+- [@J2TeamDev](https://github.com/outworkz)
 
